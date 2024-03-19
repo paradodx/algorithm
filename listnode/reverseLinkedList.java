@@ -1,6 +1,6 @@
-package node;
+package listnode;
 
-public class ReverseLinkedList {
+public class reverseLinkedList {
     static class ListNode {
         int val;
         ListNode next;

@@ -1,10 +1,10 @@
-package test;
+package listnode;
 
 /*
 * 回文链表
 * */
 
-public class test01 {
+public class isPalindrome {
      public static class ListNode {
      int val;
      ListNode next;

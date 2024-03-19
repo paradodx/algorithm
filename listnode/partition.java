@@ -1,9 +1,11 @@
-package test;
+package listnode;
 
 /*
 * 比k小的数在左边，比k大的数在右边，等于k的数在中间
+* 1. 申请额外数组空间，将链表复制到数组中排序再返回
+* 2. 6个变量：SH、ST、EH、ET、BH、BT
 * */
-public class test02 {
+public class partition {
     public static class ListNode {
         int val;
         ListNode next;

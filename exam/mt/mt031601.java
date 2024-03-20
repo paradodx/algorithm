@@ -2,6 +2,9 @@ package exam.mt;
 
 import java.util.Scanner;
 
+/*
+* int -> long
+* */
 public class mt031601 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -12,8 +15,8 @@ public class mt031601 {
             arr[i] = scanner.nextInt();
             sum += arr[i];
         }
-        int x = scanner.nextInt(sum); // 满减
-        int y = scanner.nextInt(sum); // 红包
+        int x = scanner.nextInt(); // 满减
+        int y = scanner.nextInt(); // 红包
         System.out.println(sum - x - y);
 
     }

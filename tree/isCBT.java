@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 /*
- * 判断是否满二叉树
+ * 判断是否完全二叉树
  * */
 public class isCBT {
 

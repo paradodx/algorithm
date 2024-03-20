@@ -1,4 +1,4 @@
-package tree;
+package a03Tree;
 
 public class isFull {
     static class TreeNode {

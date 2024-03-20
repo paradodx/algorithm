@@ -1,4 +1,4 @@
-package listnode;
+package a02Listnode;
 
 /*
 * 比k小的数在左边，比k大的数在右边，等于k的数在中间

@@ -1,4 +1,4 @@
-package listnode;
+package a02Listnode;
 
 import java.util.HashMap;
 

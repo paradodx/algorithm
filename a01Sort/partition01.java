@@ -1,4 +1,4 @@
-package sort;
+package a01Sort;
 
 public class partition01 {
     public static void partition(int[] array, int k) {

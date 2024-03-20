@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-import static sort.heap01.heapInsert;
+import static a01Sort.heap01.heapInsert;
 public class main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

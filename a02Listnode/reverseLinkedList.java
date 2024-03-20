@@ -1,4 +1,4 @@
-package listnode;
+package a02Listnode;
 
 public class reverseLinkedList {
     static class ListNode {

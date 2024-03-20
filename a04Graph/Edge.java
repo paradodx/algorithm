@@ -1,4 +1,4 @@
-package graph;
+package a04Graph;
 
 public class Edge {
     public int weight; // 边的权值

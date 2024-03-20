@@ -1,4 +1,4 @@
-package listnode;
+package a02Listnode;
 
 /*
 * 查找有环链表的第一个环结点

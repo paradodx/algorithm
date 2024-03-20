@@ -1,4 +1,4 @@
-package listnode;
+package a02Listnode;
 
 /*
 * 回文链表

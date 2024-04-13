@@ -1,4 +1,4 @@
-package test;
+package exam.leetcode;
 
 public class lc48 {
 

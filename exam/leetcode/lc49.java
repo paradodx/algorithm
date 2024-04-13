@@ -1,4 +1,4 @@
-package test;
+package exam.leetcode;
 
 import java.util.*;
 

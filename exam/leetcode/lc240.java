@@ -1,4 +1,4 @@
-package test;
+package exam.leetcode;
 
 public class lc240 {
     public static boolean searchMatrix(int[][] matrix, int target) {

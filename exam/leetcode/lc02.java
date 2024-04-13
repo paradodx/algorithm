@@ -1,4 +1,4 @@
-package test;
+package exam.leetcode;
 
 public class lc02 {
     public static class ListNode {

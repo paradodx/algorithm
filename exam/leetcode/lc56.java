@@ -21,6 +21,7 @@ public class lc56 {
         for (int i = 0; i < arr.length; i++){
             int left = arr[i][0];
             int right = arr[i][1];
+            // res.get((res.size() - 1))[1]: 获取res集合中最后一个元素的右端点
             if (res.size() == 0 || res.get((res.size() - 1))[1] < left){
                 res.add(new int[]{left, right});
             }else {
